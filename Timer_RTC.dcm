@@ -114,4 +114,10 @@ K I2C RTC Clock Calendar
 F http://www.nxp.com/documents/data_sheet/PCF8563.pdf
 $ENDCMP
 #
+$CMP RV-1805-C3
+D Extreme Low Power RTC Module
+K RTC
+F http://www.microcrystal.com/images/_Product-Documentation/02_Oscillator_&_RTC_Modules/01_Datasheet/RV-1805-C3.pdf
+$ENDCMP
+#
 #End Doc Library
